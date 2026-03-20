@@ -1,6 +1,5 @@
 # Nettsiden til BreiBygg AS
 
-## Oppgave 1
 ## Kravspesifikasjon for nettsiden til BreiBygg AS
 ### 1. Funksjonelle krav
 
